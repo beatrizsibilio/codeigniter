@@ -11,7 +11,7 @@
                         <img src="https://guiaviajarmelhor.com.br/wp-content/uploads/2019/11/melhor-praia-do-mundo-tripadvisor-5.jpg" class="d-block w-100" alt="...">
                         </div>
                         <div class="carousel-item">
-                        <img src="https://www.costacruzeiros.com/content/dam/costa/costa-magazine/articles-magazine/beaches/barbados-beaches/barbados-spiagge_m.jpg.image.694.390.low.jpg">
+                        <img src="https://images.tcdn.com.br/img/img_prod/650565/papel_de_parede_3d_praias_0020_adesivo_paisagem_1673_2_20201007172046.jpg" class="d-block w-100" alt="...">
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -26,4 +26,3 @@
             </div>
         </div>
         <!--fim do corpo da página-->
-        
